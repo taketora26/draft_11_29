@@ -33,7 +33,14 @@ scala.rookies #1
 
 ---
 
+もうちょっとで3時間切れそうですが
 
+---
+
+<img src="https://github.com/taketora26/draft_11_29/blob/master/img/run2.png?raw=true" width="400">
+
+
+これが限界だと思いました😇
 
 ---
 
