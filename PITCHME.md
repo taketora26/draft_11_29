@@ -32,3 +32,8 @@ scala.rookies #1
 <img src="https://github.com/taketora26/draft_11_29/blob/master/img/run.png?raw=true" width="400">
 
 ---
+
+
+
+---
+
