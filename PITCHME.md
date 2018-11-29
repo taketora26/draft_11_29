@@ -91,7 +91,7 @@ Scalaのコミュニティで著名な
 * JRE：Java Runtime Environment(実行環境)
 * JDK：Java Development Kit(開発ツール)
 
-> 実践Scala入門」10p
+##### 実践Scala入門」10p
 
 ---
 
@@ -100,13 +100,13 @@ Scalaのコミュニティで著名な
 * JDKはJREも同封するのでScalaでの開発をするなら、ともあれJDKをインストールする必要がある
 
 
-> 実践Scala入門」11p
+##### 実践Scala入門」11p
 
 ---
 
-<img src="https://github.com/taketora26/draft_11_29/blob/master/img/jvm.jpg?raw=true" width="250">
+<img src="https://github.com/taketora26/draft_11_29/blob/master/img/jvm.jpg?raw=true" width="400">
 
-> 実践Scala入門」11p
+##### 実践Scala入門」11p
 
 ---
 
@@ -181,6 +181,6 @@ Scalaにおける自分の解釈がより正しく、より深くなる本
 > 本書を通じてScalaに入門する方が増えて、日本のScalaコミュニティがより活性化することを
 > 願っています。
 
-> 「実践Scala入門」4p.
+##### 「実践Scala入門」4p.
 
 ---
