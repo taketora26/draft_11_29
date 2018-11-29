@@ -27,10 +27,9 @@ scala.rookies #1
 
 ---
 
-## 完走しました
-
 <img src="https://github.com/taketora26/draft_11_29/blob/master/img/run.png?raw=true" width="400">
 
+## 完走しました
 
 ---
 
@@ -50,9 +49,7 @@ scala.rookies #1
 
 ---
 
-
 <img src="https://github.com/taketora26/draft_11_29/blob/master/img/実践Scala入門.jpg?raw=true" width="250">
-
 
 この中ですでに実践`Scala`入門を読んだ方
 
@@ -60,12 +57,17 @@ scala.rookies #1
 
 ---
 
-この本は、
+この本は
 
-最新のScalaの入門書がほとんどないという課題感から
+最新のScalaの入門書がほとんどない
+
+という課題感から
 
 Scalaのコミュニティで著名な
-水島さん、瀬良さん、麻植さん、河内さん、青山さんが書かれた本です。
+
+水島さん、瀬良さん、麻植さん
+
+河内さん、青山さんが書かれた本です。
 
 ---
 
