@@ -51,7 +51,7 @@ scala.rookies #1
 ---
 
 
-<img src="https://github.com/taketora26/draft_11_29/blob/master/img/実践Scala入門.jpg?raw=true" width="180">
+<img src="https://github.com/taketora26/draft_11_29/blob/master/img/実践Scala入門.jpg?raw=true" width="250">
 
 
 この中ですでに実践`Scala`入門を読んだ方
