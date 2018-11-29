@@ -104,12 +104,21 @@ Scalaのコミュニティで著名な
 
 ---
 
-<img src="https://github.com/taketora26/draft_11_29/blob/master/img/jvm.jpg?raw=true" width="400">
+<img src="https://github.com/taketora26/draft_11_29/blob/master/img/jvm.jpg?raw=true" width="500">
 
 ##### 実践Scala入門」11p
 
 ---
 
+##### JVMのメリット
+
+* OSの差異などに左右されずポータルな実行プログラムである
+* 既存のJavaモジュールを呼び出すことができる
+* 実行時パフォーマンスがある程度高速である
+
+##### 実践Scala入門」12p,13p
+
+---
 
 
 
