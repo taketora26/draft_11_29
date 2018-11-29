@@ -31,6 +31,13 @@ scala.rookies #1
 
 <img src="https://github.com/taketora26/draft_11_29/blob/master/img/run.png?raw=true" width="400">
 
+
+---
+
+<img src="https://github.com/taketora26/draft_11_29/blob/master/img/run2.png?raw=true" width="400">
+
+めちゃくちゃキツかったです。
+
 ---
 
 本題に行きます
