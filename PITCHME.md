@@ -107,7 +107,7 @@ Scalaのコミュニティで著名な
 
 ---
 
-<img src="https://github.com/taketora26/draft_11_29/blob/master/img/jvm.jpg?raw=true" width="500">
+<img src="https://github.com/taketora26/draft_11_29/blob/master/img/jvm2.JPG?raw=true" width="500">
 
 ##### 実践Scala入門」11p
 
