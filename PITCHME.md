@@ -88,6 +88,9 @@ Scalaのコミュニティで著名な
 
 ## JVMの解説
 
+
+---
+
 * JRE：Java Runtime Environment(実行環境)
 * JDK：Java Development Kit(開発ツール)
 
